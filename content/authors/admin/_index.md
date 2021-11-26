@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yeirae Rho (노예래)
+title: Yeirae Rho 노예래
 
 # Is this the primary user of the site?
 superuser: true
