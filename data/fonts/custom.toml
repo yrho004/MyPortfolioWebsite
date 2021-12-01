@@ -1,21 +1,11 @@
-# Theme metadata
-name = "custom"
+# Font style metadata
+name = "My Font Set"
 
-# Is theme light or dark?
-light = true
+# Optional Google font URL
+google_fonts = "family=Oswald&family=Roboto&family=Roboto+Mono"
 
-# Primary
-primary = "#328cc1"
-primary_light = "#328cc1"
-primary_dark = "#DA2536"
-
-# Menu
-menu_primary = "#494949"
-menu_text = "#fff"
-menu_text_active = "#328cc1"
-menu_title = "#fff"
-
-# Backgrounds
-background = "#fff"
-home_section_odd = "#fff"
-home_section_even = "#f7f7f7"
+# Font families
+heading_font = "Oswald"
+body_font = "Roboto"
+nav_font = "Oswald"
+mono_font = "Roboto Mono"
