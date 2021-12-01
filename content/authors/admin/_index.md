@@ -19,7 +19,7 @@ bio: Economist with an interest in getting things done.
 # Interests to show in About widget
 interests:
 - Industrial Organization
-- Innovation and Workers
+- Innovation
 - Competition Theory
 
 # Education to show in About widget
