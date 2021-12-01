@@ -18,9 +18,10 @@ bio: Economist with an interest in getting things done.
 
 # Interests to show in About widget
 interests:
-- Industrial Organization
-- Innovation
-- Competition Theory
+- Industrial organisation
+- Innovation and skills
+- Knowledge spillovers
+- Data analysis and visualisation
 
 # Education to show in About widget
 education:
@@ -70,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Rae is a PhD candidate in the department of economics at the University of Auckland, New Zealand. Her research interests 
+I am a PhD candidate in the department of economics at the University of Auckland, New Zealand.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
